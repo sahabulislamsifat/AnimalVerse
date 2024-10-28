@@ -1,0 +1,8 @@
+.active {
+  background-color: red;
+  /* outline-color: blueviolet; */
+  color: white;
+  /* outline: blue; */
+  /* border: outline-cyan-500; */
+  /* outline: outline-2 outline-zinc-700; */
+}
